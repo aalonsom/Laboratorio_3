@@ -3,6 +3,8 @@ Laboratorio_3
 
 Ficheros Java para la tercera clase de laboratorio de ADSW. 
 
+NO DESCARGAR TODAVÍA -- SE AVISARÁ CUANDO ESTÉ LISTO
+
 Para clonar el proyecto en Eclipse hay que hacer lo siguiente:
 
 1) Desde la vista de repositorios de Git, pulsar el icono "Clone a Git repository..."
